@@ -1,0 +1,6 @@
+[submodule "NAVIGATOR_Server"]
+	path = NAVIGATOR_Server
+	url = https://github.com/KaoruNishikawa/NAVIGATOR_Server.git
+[submodule "NAVIGATOR_UI"]
+	path = NAVIGATOR_UI
+	url = https://github.com/KaoruNishikawa/NAVIGATOR_UI.git
