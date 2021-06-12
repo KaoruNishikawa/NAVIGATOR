@@ -1,6 +1,6 @@
 # NAVIGATOR
 
-N<span style="font-variant: small-caps">ecst</span> Automated Visual Information Graph with Advanced Telescope Operation Runtime.
+Necst Automated Visual Information Graph with Advanced Telescope Operation Runtime.
 
 ## Features
 
